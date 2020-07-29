@@ -1,9 +1,9 @@
-# Deep Reinforment Learning - Project 1 
+# Deep Reinforment Learning - Project 1 - Banana Gobbler
 
 This project repository contains the solution for Udacity's [Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893) Navigation Project.
 
 #### Algorithm
-I have used Deep QNetworks to train the agent. For more details read the report. 
+I have used Deep QNetworks to train the agent. For more details read the [report](report.md).
 
 ### Environment details
 
